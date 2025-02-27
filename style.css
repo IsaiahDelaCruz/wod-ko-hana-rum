@@ -1,0 +1,7 @@
+.bg-image {
+    background-image: url('https://courses.ics.hawaii.edu/ics314s25/morea/ui-frameworks/wod-ko-hana-background.png'); 
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    width: 100%;
+  }
